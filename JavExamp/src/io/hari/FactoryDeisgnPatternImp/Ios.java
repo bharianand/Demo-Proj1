@@ -14,4 +14,8 @@ public class Ios implements OS{
 	public void spec2() {
 		System.out.println("Secure OS 2");
 	}
+	
+	public void spec3() {
+		System.out.println("Secure OS 3");
+	}
 }

@@ -17,4 +17,9 @@ public class Android implements OS{
 		// TODO Auto-generated method stub
 		System.out.println("Most Powerful OS 2..");
 	}
+	
+	public void spec3() {
+		// TODO Auto-generated method stub
+		System.out.println("Most Powerful OS 3..");
+	}
 }
