@@ -8,6 +8,7 @@ public class OperatingSystemFactory {
 			return new Ios();
 		else{
 			System.out.println("Else block");
+			System.out.println("Second Else block");
 			return new Windows();
 		}
 	}
